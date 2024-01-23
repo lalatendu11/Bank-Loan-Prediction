@@ -11,6 +11,7 @@ Data Cleaning and Preprocessing:
 
 Clean the data by handling missing values, outliers, and inconsistencies.
 Preprocess the data by encoding categorical variables, scaling numerical features, and performing any necessary transformations.
+
 Exploratory Data Analysis (EDA):
 
 Explore and analyze the dataset to gain insights into the distribution of variables, relationships, and potential patterns.
@@ -19,13 +20,16 @@ Feature Engineering:
 
 Create new features or transform existing ones to enhance the predictive power of the model.
 Feature engineering might involve creating interaction terms, binning variables, or extracting meaningful information.
+
 Model Selection:
 
 Choose appropriate machine learning algorithms for the task. Common models for binary classification problems like loan prediction include Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), and Gradient Boosting algorithms.
+
 Model Training:
 
 Split the dataset into training and testing sets.
 Train the selected models on the training data.
+
 Model Evaluation:
 
 Evaluate the performance of the models using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC.
@@ -34,6 +38,7 @@ Hyperparameter Tuning:
 
 Fine-tune the hyperparameters of the chosen model to improve its performance.
 This may involve using techniques like grid search or randomized search.
+
 Deployment:
 
 Deploy the trained model for making predictions on new loan applications.
